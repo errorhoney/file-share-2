@@ -39,5 +39,4 @@ CREATE TABLE `users` (
 - https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
 - https://tutorialzine.com/2010/02/php-mysql-download-counter
 
-# telegram
-t.me/shahadansaad
+
